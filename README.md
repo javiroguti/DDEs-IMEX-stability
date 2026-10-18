@@ -3,7 +3,7 @@
 This repository contains the source code used for the numerical experiments and symbolic derivations in the paper.
 
 ## Requirements
-* Mathematica 14.0+ / MATLAB R2022b
+* Mathematica 14.0+
 
 ## Repository Structure
 * `LTE.nb`: Symbolic derivation of the Local Truncation Error.
