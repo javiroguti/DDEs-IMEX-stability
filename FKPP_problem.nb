@@ -20,7 +20,7 @@ WindowFrame->Normal*)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell["FKPK equation problem", "Title",
+Cell["FKPP equation problem", "Title",
  CellChangeTimes->{{4.001307845465559*^9, 
   4.0013078517716713`*^9}},ExpressionUUID->"eebed95a-3a92-e843-8c64-\
 d17d765c4d5b"],
